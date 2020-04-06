@@ -1,0 +1,77 @@
+
+.first-sec{
+  background-size: cover;
+  background-image: url("code.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 45rem;
+}
+.col-lg-6{
+  color: white;
+  margin-top: 6.5rem;
+  font-family: 'Righteous', cursive;
+  font-size:1.5rem;
+}
+.pad{
+  padding: 3% 12%;
+}
+#brand{
+  font-family: 'Righteous', cursive;
+  font-weight: bold;
+  font-size: 2rem;
+  letter-spacing: 0.15rem;
+}
+.nav-item{
+  font-family: 'Righteous', cursive;
+  padding-right: 1rem;
+  font-size: 1.25rem;
+  color: white;
+}
+img{
+  height: 8rem;
+  width: 8rem;
+  border-radius: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+p{
+  color: gray;
+  font-weight: bold;
+  padding-top: 1.25rem;
+  padding-bottom: 0.5rem;
+  letter-spacing: 0.1rem;
+}
+.second-sec{
+  background-color: black;
+  text-align: center;
+  height:100%;
+  font-family: 'Dosis', sans-serif;
+}
+.center{
+  color: gray;
+  font-family: 'Dosis', sans-serif;
+  font-size: 1.5rem;
+  letter-spacing: 0.2rem;
+  padding-top: 5%;
+  padding-bottom: 1%;
+}
+.container{
+  padding-bottom: 3%;
+}
+footer{
+  background-color: #323232;
+  text-align: center;
+  height:100%;
+  font-family: 'Dosis', sans-serif;
+  color: white;
+}
+.center-1{
+  font-size: 1.5rem;
+  letter-spacing: 0.2rem;
+  padding-top: 3%;
+  padding-bottom: 2%;
+}
+.row{
+  width: 100%;
+
+}
